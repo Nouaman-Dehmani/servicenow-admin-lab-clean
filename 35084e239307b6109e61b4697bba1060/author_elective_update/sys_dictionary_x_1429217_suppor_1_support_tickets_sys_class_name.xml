@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="sys_class_name" table="x_1429217_suppor_1_support_tickets">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Class</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value>javascript:current.getTableName();</default_value>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>sys_class_name</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="">sys_class_name</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>80</max_length>
+        <name>x_1429217_suppor_1_support_tickets</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-20 17:27:28</sys_created_on>
+        <sys_id>6ffd09b3930ff6109e61b4697bba1051</sys_id>
+        <sys_name>Class</sys_name>
+        <sys_package display_value="Support Admin Lab Clean" source="x_1429217_suppor_1">35084e239307b6109e61b4697bba1060</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Support Admin Lab Clean">35084e239307b6109e61b4697bba1060</sys_scope>
+        <sys_update_name>sys_dictionary_x_1429217_suppor_1_support_tickets_sys_class_name</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-20 17:27:28</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier/>
+        <virtual>false</virtual>
+        <virtual_type/>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Support Admin Lab Clean">35084e239307b6109e61b4697bba1060</application>
+        <file_path/>
+        <instance_id>1f37bee9eb7c2210e9bbfddacad0cd3f</instance_id>
+        <instance_name>dev322709</instance_name>
+        <name>sys_dictionary_x_1429217_suppor_1_support_tickets_sys_class_name</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="sys_class_name" table="x_1429217_suppor_1_support_tickets"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Class</column_label><comments/><create_roles/><default_value>javascript:current.getTableName();</default_value><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>sys_class_name</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="">sys_class_name</internal_type><mandatory>false</mandatory><max_length>80</max_length><name>x_1429217_suppor_1_support_tickets</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-02-20 17:27:28</sys_created_on><sys_id>6ffd09b3930ff6109e61b4697bba1051</sys_id><sys_name>Class</sys_name><sys_package display_value="Support Admin Lab Clean" source="x_1429217_suppor_1">35084e239307b6109e61b4697bba1060</sys_package><sys_policy/><sys_scope display_value="Support Admin Lab Clean">35084e239307b6109e61b4697bba1060</sys_scope><sys_update_name>sys_dictionary_x_1429217_suppor_1_support_tickets_sys_class_name</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-02-20 17:27:28</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier/><virtual>false</virtual><virtual_type/><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>1741419609</payload_hash>
+        <record_name>Support Tickets.Class</record_name>
+        <reverted_from/>
+        <source>239a02a79307b6109e61b4697bba1007</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-20 17:27:29</sys_created_on>
+        <sys_id>ebfd09b3930ff6109e61b4697bba10c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19c7c17a0630000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-20 17:27:29</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>2ffd09b3d50ff61043c37b8691a15bc3</update_guid>
+        <update_guid_history>2ffd09b3d50ff61043c37b8691a15bc3:1741419609</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-20 18:26:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>09642386b7364e39991131cf557cc8f9</sys_id>
+        <sys_metadata>6ffd09b3930ff6109e61b4697bba1051</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Class</sys_name>
+        <sys_package display_value="Support Admin Lab Clean" source="x_1429217_suppor_1">35084e239307b6109e61b4697bba1060</sys_package>
+        <sys_parent display_value="">3ca69e6f9347b6109e61b4697bba1009</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Support Admin Lab Clean">35084e239307b6109e61b4697bba1060</sys_scope>
+        <sys_scope_delete display_value="">81fe5f47d85d495fafa425d634ce9201</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1429217_suppor_1_support_tickets_sys_class_name</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1429217_suppor_1_support_tickets_sys_class_name">ebfd09b3930ff6109e61b4697bba10c4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-20 18:26:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
