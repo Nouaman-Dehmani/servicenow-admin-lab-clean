@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9eae8e309357f2109e61b4697bba1086" label="Support Ticket 2" max_length="40" name="x_1429217_suppor_1_support_ticket_2" type="collection">
+        <element label="Escalation Count" max_length="40" name="escalation_count" type="integer"/>
+        <element label="VIP User" max_length="40" name="vip_user" type="boolean"/>
+        <element choice="2" label="Support Tier" max_length="40" name="support_tier" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Tier 1" sequence="0" value="tier_1"/>
+                <element inactive_on_update="false" label="Tier 3" sequence="2" value="tier_3"/>
+                <element inactive_on_update="false" label="Tier 2" sequence="1" value="tier_2"/>
+            </choice>
+        </element>
+    </element>
+</database>

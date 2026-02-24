@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Support Tickets</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1429217_suppor_1_support_tickets</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-22 17:08:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>187c1f58931332109e61b4697bba10c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Support Tickets</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Support Admin Lab Clean" source="x_1429217_suppor_1">35084e239307b6109e61b4697bba1060</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Support Admin Lab Clean">35084e239307b6109e61b4697bba1060</sys_scope>
+        <sys_update_name>sys_app_module_187c1f58931332109e61b4697bba10c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-22 17:08:29</sys_updated_on>
+        <timeline_page/>
+        <title>Support Tickets</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Support Admin Lab Clean">35084e239307b6109e61b4697bba1060</application>
+        <file_path/>
+        <instance_id>1f37bee9eb7c2210e9bbfddacad0cd3f</instance_id>
+        <instance_name>dev322709</instance_name>
+        <name>sys_app_module_187c1f58931332109e61b4697bba10c1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application/><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Support Tickets</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1429217_suppor_1_support_tickets</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-02-22 17:08:29</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>187c1f58931332109e61b4697bba10c1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Support Tickets</sys_name><sys_overrides/><sys_package display_value="Support Admin Lab Clean" source="x_1429217_suppor_1">35084e239307b6109e61b4697bba1060</sys_package><sys_policy/><sys_scope display_value="Support Admin Lab Clean">35084e239307b6109e61b4697bba1060</sys_scope><sys_update_name>sys_app_module_187c1f58931332109e61b4697bba10c1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-02-22 17:08:29</sys_updated_on><timeline_page/><title>Support Tickets</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>326982831</payload_hash>
+        <record_name>Support Tickets</record_name>
+        <reverted_from/>
+        <source>239a02a79307b6109e61b4697bba1007</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-22 17:08:30</sys_created_on>
+        <sys_id>81dc9bd4931332109e61b4697bba103a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19c8652f7620000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-22 17:08:30</sys_updated_on>
+        <type>Module</type>
+        <update_guid>4ddc9bd461133210cf21e00695017138</update_guid>
+        <update_guid_history>4ddc9bd461133210cf21e00695017138:326982831</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Support Tickets">d59d931c931332109e61b4697bba108b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-22 17:11:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>007ef54b929d4f908004821110c52901</sys_id>
+        <sys_metadata>187c1f58931332109e61b4697bba10c1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Support Tickets</sys_name>
+        <sys_package display_value="Support Admin Lab Clean" source="x_1429217_suppor_1">35084e239307b6109e61b4697bba1060</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Support Admin Lab Clean">35084e239307b6109e61b4697bba1060</sys_scope>
+        <sys_scope_delete display_value="">81fe5f47d85d495fafa425d634ce9201</sys_scope_delete>
+        <sys_update_name>sys_app_module_187c1f58931332109e61b4697bba10c1</sys_update_name>
+        <sys_update_version display_value="sys_app_module_187c1f58931332109e61b4697bba10c1">81dc9bd4931332109e61b4697bba103a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-22 17:11:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
